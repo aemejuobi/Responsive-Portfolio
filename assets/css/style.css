@@ -156,7 +156,7 @@ footer{
 }
 
 #box2{
-    background-image: url(../images/game.jpg);
+    background-image: url(https://media.giphy.com/media/l3q2RgN7WUjeUUXm0/giphy.gif);
     background-repeat: no-repeat;
 }
 
@@ -173,6 +173,10 @@ footer{
 #box5{
     background-image: url(../images/tv.jpg);
     
+}
+
+a{
+    text-decoration-line: none;
 }
 
 /*Contact Styling*/
