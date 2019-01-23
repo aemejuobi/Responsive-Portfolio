@@ -175,6 +175,11 @@ footer{
     
 }
 
+#box6{
+    background-image: url(../images/phone.jpg);
+    background-repeat: no-repeat;
+}
+
 a{
     text-decoration-line: none;
 }
